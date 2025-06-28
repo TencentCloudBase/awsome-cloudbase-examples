@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "cloudbase": {
+            "command": "npx",
+            "args": [
+                "@cloudbase/cloudbase-mcp@latest"
+            ],
+            "disabled": false
+        }
+    }
+}
